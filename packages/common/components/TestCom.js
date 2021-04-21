@@ -2,7 +2,7 @@
 function Testcom() {
     return (
         <div className="App">
-        hello mono-repo
+        hello mono-repo2
     </div>
 );
 }
