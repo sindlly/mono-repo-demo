@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "scripts": {
+    "start:aSite": "lerna --scope @mono-repo-demo/admin-site run start"
+  },
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
